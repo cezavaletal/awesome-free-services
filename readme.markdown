@@ -43,7 +43,7 @@
 
 ## ⏰ Time Management
 
-- [WakaTime](https://wakatime.com)
+- [WakaTime](https://wakatime.com)  ➰ ➰ ➰ ➰ ➰ ➰ ➰ ➰ ➰ ➰ ➰ ➰ ➰ ➰ ➰ ➰
 - [RescueTime](https://www.rescuetime.com)
 - [Toggl](https://www.toggl.com/pricing)
 - [MyHours](http://myhours.com/)
